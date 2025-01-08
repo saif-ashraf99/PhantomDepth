@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+timm
+requests
+open3d
+opencv-python
+Pillow
