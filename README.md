@@ -68,7 +68,7 @@ single_view_3d/
 1. **Clone the repository**:
 
    ```bash
-   git clone 
+   git clone https://github.com/saif-ashraf99/PhantomDepth
    cd PhantomDepth
    ```
 
